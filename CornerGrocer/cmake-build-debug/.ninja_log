@@ -1,0 +1,14 @@
+# ninja log v5
+2	573	7236658319671524	CMakeFiles/CornerGrocer.dir/main.cpp.obj	a5199890ffe8075e
+573	721	7236658321124525	CornerGrocer.exe	2054a1a33092cd6f
+11	531	7236677041490580	CMakeFiles/CornerGrocer.dir/GroceryList.cpp.obj	57e36d9b7862ffe3
+2	612	7236677246708452	CMakeFiles/CornerGrocer.dir/main.cpp.obj	a5199890ffe8075e
+612	783	7236677248392789	CornerGrocer.exe	3b2ec30797520ebe
+2	496	7236678749477799	CMakeFiles/CornerGrocer.dir/GroceryList.cpp.obj	57e36d9b7862ffe3
+496	667	7236678751157589	CornerGrocer.exe	3b2ec30797520ebe
+3	470	7236679447744979	CMakeFiles/CornerGrocer.dir/GroceryList.cpp.obj	57e36d9b7862ffe3
+470	633	7236679449349977	CornerGrocer.exe	3b2ec30797520ebe
+2	607	7236679811678786	CMakeFiles/CornerGrocer.dir/main.cpp.obj	a5199890ffe8075e
+608	767	7236679813264535	CornerGrocer.exe	3b2ec30797520ebe
+2	499	7236681323275674	CMakeFiles/CornerGrocer.dir/GroceryList.cpp.obj	57e36d9b7862ffe3
+499	663	7236681324870219	CornerGrocer.exe	3b2ec30797520ebe
